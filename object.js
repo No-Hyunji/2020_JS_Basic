@@ -52,6 +52,7 @@ function printValue(obj, key){
     // key에 관련된 value를 받아올때 유용하게 쓸 수 있음. 
 }
 printValue(hyunji, 'name');
+// key는 항상 문자열로 전달해야함 
 printValue(hyunji, 'age');
 
 // 3. Property value shorthand
