@@ -18,7 +18,7 @@ console.log(name);
 console.log(globalName);
 
 // var(don't ever use this!)
-// 값을 선언하기도 전에 쓸 수 있음
+// 값을 선언하기도 전에 값을 쓸 수 있음
 // var hoisting (move declaration from bottom to top) : 끌어올려주다
 // 어디에선언했냐에 상관없이 항상 제일 위로 선언을 끌어올려주는것을 말함.
 // has no block scope : 블럭 무시 
